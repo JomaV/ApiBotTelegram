@@ -1,14 +1,14 @@
 {
-  "name": "apiaibackendnode",
+  "name": "apiai-telegram-bot",
   "version": "1.0.0",
-  "description": "API.AI bot",
+  "description": "API.AI Telegram Bot",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Josep M Viladegut",
-  "license": "ISC",
+  "author": "Danil Skachkov <danil.skachkov@speaktoit.com> (https://api.ai)",
+  "license": "Apache-2.0",
   "dependencies": {
     "axios": "^0.14.0",
     "body-parser": "^1.15.2",
