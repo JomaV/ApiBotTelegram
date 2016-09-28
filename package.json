@@ -1,10 +1,10 @@
 {
   "name": "apiaibackendnode",
   "version": "1.0.0",
-  "description": "",
-  "main": "appTest.js",
+  "description": "API.AI bot",
+  "main": "src/app.js",
   "scripts": {
-    "start": "node appTest.js",
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Josep M Viladegut",
