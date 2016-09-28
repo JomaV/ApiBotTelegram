@@ -4,6 +4,7 @@
   "description": "",
   "main": "appTest.js",
   "scripts": {
+    "start": "appTest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Josep M Viladegut",
