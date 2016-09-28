@@ -1,0 +1,16 @@
+{
+  "name": "apiaibackendnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josep M Viladegut",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "body-parser": "^1.15.2",
+    "sync-request": "^3.0.1"
+  }
+}
